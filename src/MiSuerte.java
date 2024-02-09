@@ -9,8 +9,8 @@ public class MiSuerte extends JFrame {
             "Tendras un futuro lleno de triunfos y felicidad.",
             "Tus sueños se haran realidad con perseverancia.",
             "Tus esfuerzos seran recompensados con éxito.",
-            "Que cada paso que des esté lleno de fortaleza.",
-            "Buena suerte en todas tus aspiraciones y objetivos."
+            "Que cada paso que das esta lleno de fortaleza.",
+            "Buena suerte tendras en todas tus aspiraciones y objetivos."
     };
     public MiSuerte() {
         setTitle("Mi Suerte");
